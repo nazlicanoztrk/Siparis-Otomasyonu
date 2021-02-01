@@ -1,0 +1,60 @@
+C:\Users\PC\Desktop\C# Proje\Siparis\Siparis\bin\Debug\Siparis.exe.config
+C:\Users\PC\Desktop\C# Proje\Siparis\Siparis\bin\Debug\Siparis.exe
+C:\Users\PC\Desktop\C# Proje\Siparis\Siparis\bin\Debug\Siparis.pdb
+C:\Users\PC\Desktop\C# Proje\Siparis\Siparis\obj\Debug\Siparis.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\C# Proje\Siparis\Siparis\obj\Debug\Siparis.Form1.resources
+C:\Users\PC\Desktop\C# Proje\Siparis\Siparis\obj\Debug\Siparis.Form2.resources
+C:\Users\PC\Desktop\C# Proje\Siparis\Siparis\obj\Debug\Siparis.Properties.Resources.resources
+C:\Users\PC\Desktop\C# Proje\Siparis\Siparis\obj\Debug\Siparis.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\C# Proje\Siparis\Siparis\obj\Debug\Siparis.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\C# Proje\Siparis\Siparis\obj\Debug\Siparis.exe
+C:\Users\PC\Desktop\C# Proje\Siparis\Siparis\obj\Debug\Siparis.pdb
+C:\Users\Fatih Yılmaz\Desktop\C# Proje\Siparis\Siparis\obj\Debug\Siparis.csprojAssemblyReference.cache
+C:\Users\Fatih Yılmaz\Desktop\C# Proje\Siparis\Siparis\obj\Debug\Siparis.Form1.resources
+C:\Users\Fatih Yılmaz\Desktop\C# Proje\Siparis\Siparis\obj\Debug\Siparis.Properties.Resources.resources
+C:\Users\Fatih Yılmaz\Desktop\C# Proje\Siparis\Siparis\obj\Debug\Siparis.csproj.GenerateResource.cache
+C:\Users\Fatih Yılmaz\Desktop\C# Proje\Siparis\Siparis\obj\Debug\Siparis.csproj.CoreCompileInputs.cache
+C:\Users\Fatih Yılmaz\Desktop\C# Proje\Siparis\Siparis\obj\Debug\Siparis.exe
+C:\Users\Fatih Yılmaz\Desktop\C# Proje\Siparis\Siparis\obj\Debug\Siparis.pdb
+C:\Users\Fatih Yılmaz\Desktop\C# Proje\Siparis\Siparis\bin\Debug\Siparis.exe.config
+C:\Users\Fatih Yılmaz\Desktop\C# Proje\Siparis\Siparis\bin\Debug\Siparis.exe
+C:\Users\Fatih Yılmaz\Desktop\C# Proje\Siparis\Siparis\bin\Debug\Siparis.pdb
+C:\Users\Fatih Yılmaz\Desktop\C# Proje\Siparis\Siparis\obj\Debug\Siparis.Form3.resources
+C:\Users\Fatih Yılmaz\Desktop\C# Proje\Siparis\Siparis\obj\Debug\Siparis.Form4.resources
+C:\Users\Fatih Yılmaz\Desktop\C# Proje\Siparis\Siparis\obj\Debug\Siparis.Form5.resources
+C:\Users\Kübra\Desktop\C# Proje\Siparis\Siparis\bin\Debug\Siparis.exe.config
+C:\Users\Kübra\Desktop\C# Proje\Siparis\Siparis\bin\Debug\Siparis.exe
+C:\Users\Kübra\Desktop\C# Proje\Siparis\Siparis\bin\Debug\Siparis.pdb
+C:\Users\Kübra\Desktop\C# Proje\Siparis\Siparis\obj\Debug\Siparis.csprojAssemblyReference.cache
+C:\Users\Kübra\Desktop\C# Proje\Siparis\Siparis\obj\Debug\Siparis.Form1.resources
+C:\Users\Kübra\Desktop\C# Proje\Siparis\Siparis\obj\Debug\Siparis.Form3.resources
+C:\Users\Kübra\Desktop\C# Proje\Siparis\Siparis\obj\Debug\Siparis.Form4.resources
+C:\Users\Kübra\Desktop\C# Proje\Siparis\Siparis\obj\Debug\Siparis.Form5.resources
+C:\Users\Kübra\Desktop\C# Proje\Siparis\Siparis\obj\Debug\Siparis.Properties.Resources.resources
+C:\Users\Kübra\Desktop\C# Proje\Siparis\Siparis\obj\Debug\Siparis.csproj.GenerateResource.cache
+C:\Users\Kübra\Desktop\C# Proje\Siparis\Siparis\obj\Debug\Siparis.exe
+C:\Users\Kübra\Desktop\C# Proje\Siparis\Siparis\obj\Debug\Siparis.pdb
+C:\Users\Kübra\Desktop\C# Proje2\Siparis\Siparis\obj\Debug\Siparis.csprojAssemblyReference.cache
+C:\Users\Kübra\Desktop\C# Proje2\Siparis\Siparis\obj\Debug\Siparis.Form1.resources
+C:\Users\Kübra\Desktop\C# Proje2\Siparis\Siparis\obj\Debug\Siparis.Form3.resources
+C:\Users\Kübra\Desktop\C# Proje2\Siparis\Siparis\obj\Debug\Siparis.Form4.resources
+C:\Users\Kübra\Desktop\C# Proje2\Siparis\Siparis\obj\Debug\Siparis.Form5.resources
+C:\Users\Kübra\Desktop\C# Proje2\Siparis\Siparis\obj\Debug\Siparis.Properties.Resources.resources
+C:\Users\Kübra\Desktop\C# Proje2\Siparis\Siparis\obj\Debug\Siparis.csproj.GenerateResource.cache
+C:\Users\Kübra\Desktop\C# Proje2\Siparis\Siparis\obj\Debug\Siparis.exe
+C:\Users\Kübra\Desktop\C# Proje2\Siparis\Siparis\obj\Debug\Siparis.pdb
+C:\Users\Kübra\Desktop\C# Proje2\Siparis\Siparis\bin\Debug\Siparis.exe.config
+C:\Users\Kübra\Desktop\C# Proje2\Siparis\Siparis\bin\Debug\Siparis.exe
+C:\Users\Kübra\Desktop\C# Proje2\Siparis\Siparis\bin\Debug\Siparis.pdb
+C:\Users\Kübra\Desktop\C# Proje3\Siparis\Siparis\bin\Debug\Siparis.exe.config
+C:\Users\Kübra\Desktop\C# Proje3\Siparis\Siparis\bin\Debug\Siparis.exe
+C:\Users\Kübra\Desktop\C# Proje3\Siparis\Siparis\bin\Debug\Siparis.pdb
+C:\Users\Kübra\Desktop\C# Proje3\Siparis\Siparis\obj\Debug\Siparis.csprojAssemblyReference.cache
+C:\Users\Kübra\Desktop\C# Proje3\Siparis\Siparis\obj\Debug\Siparis.Form1.resources
+C:\Users\Kübra\Desktop\C# Proje3\Siparis\Siparis\obj\Debug\Siparis.Form3.resources
+C:\Users\Kübra\Desktop\C# Proje3\Siparis\Siparis\obj\Debug\Siparis.Form4.resources
+C:\Users\Kübra\Desktop\C# Proje3\Siparis\Siparis\obj\Debug\Siparis.Form5.resources
+C:\Users\Kübra\Desktop\C# Proje3\Siparis\Siparis\obj\Debug\Siparis.Properties.Resources.resources
+C:\Users\Kübra\Desktop\C# Proje3\Siparis\Siparis\obj\Debug\Siparis.csproj.GenerateResource.cache
+C:\Users\Kübra\Desktop\C# Proje3\Siparis\Siparis\obj\Debug\Siparis.exe
+C:\Users\Kübra\Desktop\C# Proje3\Siparis\Siparis\obj\Debug\Siparis.pdb
